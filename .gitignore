@@ -1,6 +1,6 @@
-/controllers/*
+#/controllers/*
 !/controllers/apigeneratorcontroller/*
 !/controllers/apigeneratorcontroller
 !/controllers/ApiGeneratorController.php
 !routes.php
-/controllers/API/*
+#/controllers/API/*
